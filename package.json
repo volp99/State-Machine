@@ -1,0 +1,23 @@
+{
+  "name": "state-machine",
+  "version": "0.0.1",
+  "description": "Quick examples about State Machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volp99/State-Machine.git"
+  },
+  "author": "Stefano Vopatti <stefano.volpatti@sysdata.it> (https://stefanovolpatti.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volp99/State-Machine/issues"
+  },
+  "homepage": "https://github.com/volp99/State-Machine#readme",
+  "dependencies": {
+    "xstate": "^4.6.7"
+  },
+  "type": "module"
+}
