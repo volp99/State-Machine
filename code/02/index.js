@@ -21,7 +21,6 @@ const lightBulbMachine = Machine({
 });
 
 const service = interpret(lightBulbMachine).start();
-
 service.onTransition((state) => {
   console.log(state.value);
 });
