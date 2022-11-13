@@ -1,2 +1,2 @@
 # State Machine
-Introduction to State Machines using XState.
+Introduction to State Machines using XState ⚙️
